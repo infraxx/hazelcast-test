@@ -1,3 +1,37 @@
+.DS_Store
+.gradle
+.gradle/*
+.builds
+.builds/*
+.settings
+.settings/*
+.classpath
+.project
+target
+target/*
+.gradle
+.gradle/*
+build
+build/*
+.idea
+.idea/*
+generated-src
+generated-src/*
+classes
+classes/*
+.iml
+.idea
+.acignore
+lib
+lib/*
+out
+out/*
+*/.iml
+*.iml
+*.ipr
+*.iws
+*.ids
+
 # Compiled class file
 *.class
 
